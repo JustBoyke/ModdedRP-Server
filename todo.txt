@@ -1,0 +1,3 @@
+- Downloaden juiste server versie: X
+- Testen server versie: X
+- Testen Mods behorend bij Server: X
